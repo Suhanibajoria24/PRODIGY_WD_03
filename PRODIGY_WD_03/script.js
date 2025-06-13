@@ -11,6 +11,7 @@ boxes.forEach(e =>{
             cheakWin();
             cheakDraw();
             changeTurn();
+            
         }
     })
 })
